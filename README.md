@@ -1,18 +1,17 @@
 <div align="center">
   
-  <!-- Banner Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=200&section=header&text=Hi%20there,%20I'm%20Rahma%20Aurelia%20Zami%20👋&fontSize=36&fontColor=fff&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=200&section=header&text=Hi%20there,%20I'm%20Rahma%20Aurelia%20Zami%20👋&fontSize=36&fontColor=fff&animation=twinkling" width="100%" />
 
-  <!-- Animated Typing Subtitle -->
+
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Information+Systems+Graduate+%7C+GPA+3.70;BNSP+Certified+ICT+Project+Manager;Full+Stack+Developer+%26+Data+Analyst;Former+Intern+@+PT+Telkom+Indonesia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Information+Systems+Graduate;BNSP+Certified+ICT+Project+Manager;Full+Stack+Developer+%26+Data+Analyst;Former+Intern+@+PT+Telkom+Indonesia" alt="Typing SVG" />
   </a>
 
   <br>
 
-  <!-- Badges Highlight -->
+
   <img src="https://img.shields.io/badge/BNSP-Certified%20ICT%20Project%20Manager-blue?style=for-the-badge&logo=shield" />
-  <img src="https://img.shields.io/badge/S1%20Sistem%20Informasi-GPA%203.70-emerald?style=for-the-badge&logo=education" />
+  <img src="https://img.shields.io/badge/S1%20Sistem%20Informasi-Universitas%20Andalas-emerald?style=for-the-badge&logo=education" />
   <img src="https://img.shields.io/badge/Ex--Intern-PT%20Telkom%20Indonesia-red?style=for-the-badge&logo=telecom" />
 
 </div>
@@ -21,7 +20,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 **Information Systems Graduate** from **Universitas Andalas** (*GPA 3.70 / Very Satisfactory*).
+🎓 **Information Systems Graduate** from **Universitas Andalas**.
 💼 Experienced as a **Full Stack Developer Intern at PT Telkom Indonesia (Persero) Tbk**, designing database-driven web applications using Laravel & MySQL.
 🏆 **Certified BNSP ICT Project Manager** with strong interest in **Data Analytics, Systems Analysis, Data Management, and IT Project Leadership**.
 🎯 Accustomed to agile collaboration, detailed problem-solving, and delivering technology solutions on schedule.
@@ -29,7 +28,7 @@
 - 🔭 **Currently Working On**: Interactive Web Portfolio & Data Analytics Dashboards
 - 🌱 **Learning & Refining**: Advanced Python Data Analysis, BI Dashboards, & Modern Web Frameworks
 - 💬 **Ask Me About**: Information Systems, Laravel Development, MySQL Database Design, & Project Management
-- 📫 **Contact Me**: [rahmaaureliazami1001@gmail.com](mailto:rahmaaureliazami1001@gmail.com)
+- 📫 **Contact Me**: [rahmaaureliazami77@gmail.com](mailto:rahmaaureliazami77@gmail.com)
 
 ---
 
@@ -89,10 +88,10 @@
   
   ### 🤝 Connect with Me
   
-  <a href="https://linkedin.com/in/rahma-aurelia-zami">
+  <a href="https://www.linkedin.com/in/rahma-aurelia-zami-804765297/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rahmaaureliazami1001@gmail.com">
+  <a href="mailto:rahmaaureliazami77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
