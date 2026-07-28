@@ -28,7 +28,7 @@
 
 🎓 **Information Systems Graduate** from **Universitas Andalas**.
 💼 Experienced as a **Full Stack Developer Intern at PT Telkom Indonesia (Persero) Tbk**, designing database-driven web applications using Laravel & MySQL.
-🏆 **Certified BNSP ICT Project Manager** ([View Certificates 📜](https://drive.google.com/drive/folders/1fr1jyefiYPO9PeYdEdWrAADoVgxiE9vA?usp=sharing)) with strong interest in **Data Analytics, Systems Analysis, Data Management, and IT Project Leadership**.
+🏆 **Certified BNSP ICT Project Manager** ([View Certificates 📜](https://drive.google.com/file/d/1Mka4tH1h1wlDcCSIKfIQvCXottVc7ia-/view?usp=drive_link)) with strong interest in **Data Analytics, Systems Analysis, Data Management, and IT Project Leadership**.
 🌐 **Live Portfolio**: Explore my interactive work at [portofolio-aurel-xi.vercel.app](https://portofolio-aurel-xi.vercel.app/)
 🎯 Accustomed to agile collaboration, detailed problem-solving, and delivering technology solutions on schedule.
 
