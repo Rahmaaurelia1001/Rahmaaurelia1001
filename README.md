@@ -62,14 +62,14 @@
 
 ## ⚡ GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahmaaurelia1001&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="stats card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaaurelia1001&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="top languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rahmaaurelia1001&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahma's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaaurelia1001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahmaaurelia1001&theme=tokyonight&hide_border=true" alt="streak stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahmaaurelia1001&theme=tokyonight&hide_border=true" alt="streak stats" width="97%" />
+</p>
 
 ---
 
