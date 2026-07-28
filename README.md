@@ -1,15 +1,16 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=200&section=header&text=Hi%20there,%20I'm%20Rahma%20Aurelia%20Zami%20👋&fontSize=36&fontColor=fff&animation=twinkling" width="100%" />
+  <!-- Banner Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=200&section=header&text=Hi%20there,%20I'm%20Rahma%20Aurelia%20Zami%20👋&fontSize=36&fontColor=fff&animation=twinkling" width="100%" />
 
-
+  <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Information+Systems+Graduate;BNSP+Certified+ICT+Project+Manager;Full+Stack+Developer+%26+Data+Analyst;Former+Intern+@+PT+Telkom+Indonesia" alt="Typing SVG" />
   </a>
 
   <br>
 
-
+  <!-- Badges Highlight -->
   <img src="https://img.shields.io/badge/BNSP-Certified%20ICT%20Project%20Manager-blue?style=for-the-badge&logo=shield" />
   <img src="https://img.shields.io/badge/S1%20Sistem%20Informasi-Universitas%20Andalas-emerald?style=for-the-badge&logo=education" />
   <img src="https://img.shields.io/badge/Ex--Intern-PT%20Telkom%20Indonesia-red?style=for-the-badge&logo=telecom" />
@@ -57,19 +58,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## ⚡ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rahmaaurelia1001&show_icons=true&theme=tokyonight&hide_border=true" alt="Rahma's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmaaurelia1001&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahmaaurelia1001&theme=tokyonight&hide_border=true" alt="streak stats" width="97%" />
-</p>
 
 ---
 
