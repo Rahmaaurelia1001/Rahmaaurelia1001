@@ -65,10 +65,11 @@
 
 | Project Name | Category | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
+| 🎓 [**Student DropOut Risk DSS**](https://github.com/Rahmaaurelia1001/DropOut) | Data / Web | Laravel, MySQL, MFEP | Decision Support System to identify school dropout risks using socio-economic & attendance data. |
 | 🌐 **Personal Web Portfolio** | Web Dev | HTML, CSS, JavaScript | Interactive personal website showcasing achievements, skills, and projects. |
-| 🍧 **Valala Ice Cream System** | Desktop App | Java, OOP | Task-based Object-Oriented Programming desktop application. |
-| 📱 **ToDoListApp** | Mobile App | Kotlin, Android | Mobile application for task management and productivity tracking. |
-| 🏢 **Telkom Web Data Solution** | Full Stack | Laravel, MySQL | Database-driven web app created during internship at PT Telkom Indonesia. |
+| 🏢 **Telkom Web Data Solution** | Full Stack | Laravel, MySQL | Database-driven web application created during internship at PT Telkom Indonesia. |
+| 📱 [**ToDoListApp**](https://github.com/Rahmaaurelia1001/ToDoListApp) | Mobile App | Kotlin, Android | Mobile application for task management and productivity tracking. |
+| 🍧 [**Valala Ice Cream System**](https://github.com/Rahmaaurelia1001/TBPBO_Rahma-Aurelia-Zami_Valala-Ice-Cream) | Desktop App | Java, OOP | Object-Oriented Desktop Application for order management. |
 
 ---
 
