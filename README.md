@@ -8,10 +8,15 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Information+Systems+Graduate;BNSP+Certified+ICT+Project+Manager;Full+Stack+Developer+%26+Data+Analyst;Former+Intern+@+PT+Telkom+Indonesia" alt="Typing SVG" />
   </a>
 
-  <br>
+  <br><br>
 
-  <!-- Badges Highlight -->
-  <img src="https://img.shields.io/badge/BNSP-Certified%20ICT%20Project%20Manager-blue?style=for-the-badge&logo=shield" />
+  <!-- Badges Highlight with Clickable Links -->
+  <a href="https://portofolio-aurel-xi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-Vercel-black?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/1fr1jyefiYPO9PeYdEdWrAADoVgxiE9vA?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/BNSP-Certified%20ICT%20Project%20Manager-blue?style=for-the-badge&logo=shield" />
+  </a>
   <img src="https://img.shields.io/badge/S1%20Sistem%20Informasi-Universitas%20Andalas-emerald?style=for-the-badge&logo=education" />
   <img src="https://img.shields.io/badge/Ex--Intern-PT%20Telkom%20Indonesia-red?style=for-the-badge&logo=telecom" />
 
@@ -23,7 +28,8 @@
 
 🎓 **Information Systems Graduate** from **Universitas Andalas**.
 💼 Experienced as a **Full Stack Developer Intern at PT Telkom Indonesia (Persero) Tbk**, designing database-driven web applications using Laravel & MySQL.
-🏆 **Certified BNSP ICT Project Manager** with strong interest in **Data Analytics, Systems Analysis, Data Management, and IT Project Leadership**.
+🏆 **Certified BNSP ICT Project Manager** ([View Certificates 📜](https://drive.google.com/drive/folders/1fr1jyefiYPO9PeYdEdWrAADoVgxiE9vA?usp=sharing)) with strong interest in **Data Analytics, Systems Analysis, Data Management, and IT Project Leadership**.
+🌐 **Live Portfolio**: Explore my interactive work at [portofolio-aurel-xi.vercel.app](https://portofolio-aurel-xi.vercel.app/)
 🎯 Accustomed to agile collaboration, detailed problem-solving, and delivering technology solutions on schedule.
 
 - 🔭 **Currently Working On**: Interactive Web Portfolio & Data Analytics Dashboards
@@ -65,8 +71,8 @@
 
 | Project Name | Category | Tech Stack | Description |
 | :--- | :--- | :--- | :--- |
+| 🌐 [**Personal Web Portfolio**](https://portofolio-aurel-xi.vercel.app/) | Web Dev | HTML, CSS, JavaScript | Live interactive personal website showcasing achievements, skills, and projects. |
 | 🎓 [**Student DropOut Risk DSS**](https://github.com/Rahmaaurelia1001/DropOut) | Data / Web | Laravel, MySQL, MFEP | Decision Support System to identify school dropout risks using socio-economic & attendance data. |
-| 🌐 **Personal Web Portfolio** | Web Dev | HTML, CSS, JavaScript | Interactive personal website showcasing achievements, skills, and projects. |
 | 🏢 **Telkom Web Data Solution** | Full Stack | Laravel, MySQL | Database-driven web application created during internship at PT Telkom Indonesia. |
 | 📱 [**ToDoListApp**](https://github.com/Rahmaaurelia1001/ToDoListApp) | Mobile App | Kotlin, Android | Mobile application for task management and productivity tracking. |
 | 🍧 [**Valala Ice Cream System**](https://github.com/Rahmaaurelia1001/TBPBO_Rahma-Aurelia-Zami_Valala-Ice-Cream) | Desktop App | Java, OOP | Object-Oriented Desktop Application for order management. |
@@ -77,8 +83,14 @@
   
   ### 🤝 Connect with Me
   
-  <a href="https://www.linkedin.com/in/rahma-aurelia-zami-804765297/">
+  <a href="https://portofolio-aurel-xi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Vercel-black?style=for-the-badge&logo=vercel" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahma-aurelia-zami-804765297/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/drive/folders/1fr1jyefiYPO9PeYdEdWrAADoVgxiE9vA?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Certificates-Google_Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" />
   </a>
   <a href="mailto:rahmaaureliazami77@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
