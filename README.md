@@ -1,9 +1,7 @@
 <div align="center">
   
-  <!-- Banner Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,24,30&height=200&section=header&text=Hi%20there,%20I'm%20Rahma%20Aurelia%20Zami%20👋&fontSize=36&fontColor=fff&animation=twinkling" width="100%" />
 
-  <!-- Animated Typing Subtitle -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Information+Systems+Graduate;BNSP+Certified+ICT+Project+Manager;Full+Stack+Developer+%26+Data+Analyst;Former+Intern+@+PT+Telkom+Indonesia" alt="Typing SVG" />
   </a>
